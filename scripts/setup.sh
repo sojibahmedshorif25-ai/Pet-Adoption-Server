@@ -1,5 +1,5 @@
 ﻿#!/bin/bash
-# Setup script - 2026-08-02
+# Setup script - 2026-08-10
 echo 'Setting up project...'
 npm install
 echo 'Done!'
